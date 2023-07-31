@@ -28,12 +28,13 @@
     letter-spacing: -5px;
     }
 
-    .about-text {
-        margin-left: 10px;
-        margin-right: 10px;
-        font-size: 1.3em;
-        line-height: 1.4em;
-    }
+    .about-text{
+                              
+        margin-left:40px;
+        margin-right:40px;
+        font-size:1.4em;
+        line-height:2em;
+        }
 
 }
 
@@ -55,24 +56,24 @@
     
 
     .tag h1{
-    width: 341px;
-    font-size: 4em;   
-    letter-spacing: -5px;
-    font-weight:800;
-    line-height:75%;
-    font-family: 'Raleway' , sans-serif; 
-    text-align: center;
+        width: 341px;
+    font-size: 7em;
+    letter-spacing: -10px;
+    font-weight: 800;
+    line-height: 75%;
+    font-family: 'Raleway' , sans-serif;
     
     }
     
-    .about-text {
-    margin-left: 0px;
-    margin-right: 0px;
-    font-size: 1.3em;
-    line-height: 1.6em;
-    }
+    .about-text{
+                              
+        margin-left:40px;
+        margin-right:40px;
+        font-size:1.4em;
+        line-height:2em;
+        }
     
-    }
+    
     
     .particle {
                           
