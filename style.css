@@ -11,7 +11,7 @@ Version: 1
 .bg1{
     background:url("images/bg1.jpg"); 
     background-size: cover;
-    height:50vh; 
+    height: 650px;
     }
         
     .navbar{
@@ -51,12 +51,12 @@ Version: 1
                          
          
     .tag h1{
-    font-family: 'Raleway', sans-serif;
-    width:341px;
-    font-size: 7.125em; 
-    letter-spacing: -10px;
-    font-weight: 800;
-    line-height:75%;
+        width: 341px;
+        font-size: 7em;
+        letter-spacing: -10px;
+        font-weight: 800;
+        line-height: 75%;
+        font-family: 'Raleway' , sans-serif;
     }
             
     .aboutbg{
@@ -83,17 +83,17 @@ Version: 1
                           
     .about-text{
                               
-    margin-left:40px;
-    margin-right:40px;
-    font-size:1.4em;
-    line-height:2em;
-    }
+        margin-left:40px;
+        margin-right:40px;
+        font-size:1.4em;
+        line-height:2em;
+        }
                           
     .blocker {
                           
     width: 133px;
     height: 10px;
-    background-color: #purple;
+    background-color: rgb(169, 112, 169);
     margin: auto;
     margin-bottom: 40px;
     margin-top: 20px;
